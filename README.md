@@ -22,3 +22,10 @@ This challenge was to produce a website for a marketing agency called Horiseon t
 
 5. Name of title
     - There was a generic title named "website". I changed the title to the company name "Horiseon" to be more discriptive to the website. 
+
+## Mock-up
+
+![alt horiseon website](assets/images/horiseon-mock-up.png)
+
+## Deployment Links
+
