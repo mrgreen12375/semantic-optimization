@@ -29,5 +29,6 @@ This challenge was to produce a website for a marketing agency called Horiseon t
 
 ## Deployment Links
 
-- https://mrgreen12375.github.io/semantic-optimization/
+- Link - https://mrgreen12375.github.io/semantic-optimization/
 
+- GitHub - https://github.com/mrgreen12375/semantic-optimization
